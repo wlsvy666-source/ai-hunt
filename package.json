@@ -1,0 +1,15 @@
+{
+  "name": "ai-hunt-online",
+  "version": "1.0.0",
+  "description": "AI 속의 사람 - 링크만 있으면 들어오는 멀티플레이 중계 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
